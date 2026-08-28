@@ -2,7 +2,6 @@
 
 Source|Library|Version
 |---|---|---|
-Source|Library|Version
 TC31-Full-Setup.3.1.4020.14|Tc2_BA|3.1.2.0
 TC31-Full-Setup.3.1.4020.28|Tc2_BA|3.1.3.0
 TC31-Full-Setup.3.1.4020.32.a|Tc2_BA|3.1.3.0
