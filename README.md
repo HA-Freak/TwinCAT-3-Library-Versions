@@ -1,7 +1,771 @@
-# TwinCAT 3 4020 - 4024 Library Versions
+# TwinCAT 3 4018 - 4024 Library Versions
 
 Source|Library|Version
 |---|---|---|
+TC31-Full-Setup.3.1.4018.13|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.16|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.26|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.47|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.5|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.57|3SLicense|3.5.3.0
+TC31-Full-Setup.3.1.4018.13|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.16|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.26|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.47|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.5|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.57|UML Statechart Types|4.0.0.0
+TC31-Full-Setup.3.1.4018.13|UML Statechart Types|4.0.0.2
+TC31-Full-Setup.3.1.4018.16|UML Statechart Types|4.0.0.2
+TC31-Full-Setup.3.1.4018.26|UML Statechart Types|4.0.0.2
+TC31-Full-Setup.3.1.4018.47|UML Statechart Types|4.0.0.2
+TC31-Full-Setup.3.1.4018.57|UML Statechart Types|4.0.0.2
+TC31-Full-Setup.3.1.4018.47|Tc2_BA|3.1.3.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncBase|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncBase|3.3.3031.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncHli|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncHli|3.3.3031.3
+TC31-Full-Setup.3.1.4018.16|Tc2_CncHli|3.3.3031.3
+TC31-Full-Setup.3.1.4018.5|Tc2_CncHli|3.3.3031.3
+TC31-Full-Setup.3.1.4018.26|Tc2_CncHli|3.3.3031.5
+TC31-Full-Setup.3.1.4018.47|Tc2_CncHli|3.3.3031.6
+TC31-Full-Setup.3.1.4018.57|Tc2_CncHli|3.3.3031.6
+TC31-Full-Setup.3.1.4018.13|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncPlcopenP1|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.16|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.26|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.47|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.5|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.57|Tc2_CncPlcopenP1|3.3.3031.1
+TC31-Full-Setup.3.1.4018.13|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncPlcopenP4|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.16|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.26|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.47|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.5|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.57|Tc2_CncPlcopenP4|3.3.3031.0
+TC31-Full-Setup.3.1.4018.13|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.16|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.26|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.47|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.5|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.57|Tc2_ControllerToolbox|3.4.1.4
+TC31-Full-Setup.3.1.4018.13|Tc2_Coupler|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Coupler|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Coupler|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Coupler|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Coupler|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Coupler|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_DALI|3.4.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_DALI|3.6.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Database|3.3.19.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Database|3.3.19.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Database|3.3.19.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Database|3.3.19.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Database|3.3.20.1
+TC31-Full-Setup.3.1.4018.57|Tc2_Database|3.3.20.2
+TC31-Full-Setup.3.1.4018.13|Tc2_DataExchange|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_DataExchange|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_DataExchange|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_DataExchange|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_DataExchange|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_DataExchange|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_DMX|3.5.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_DMX|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Drive|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Drive|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Drive|3.3.4.0
+TC31-Full-Setup.3.1.4018.47|Tc2_EIB|3.3.4.0
+TC31-Full-Setup.3.1.4018.57|Tc2_EIB|3.3.8.0
+TC31-Full-Setup.3.1.4018.47|Tc2_EnOcean|3.3.5.0
+TC31-Full-Setup.3.1.4018.57|Tc2_EnOcean|3.4.6.0
+TC31-Full-Setup.3.1.4018.57|Tc2_EtherCAT|3.3.12.0
+TC31-Full-Setup.3.1.4018.13|Tc2_EtherCAT|3.3.5.0
+TC31-Full-Setup.3.1.4018.16|Tc2_EtherCAT|3.3.5.0
+TC31-Full-Setup.3.1.4018.5|Tc2_EtherCAT|3.3.5.0
+TC31-Full-Setup.3.1.4018.26|Tc2_EtherCAT|3.3.7.0
+TC31-Full-Setup.3.1.4018.47|Tc2_EtherCAT|3.3.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_EthernetIP|1.0.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_EthernetIP|1.0.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_EthernetIP|1.0.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_EthernetIP|1.0.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_EthernetIP|1.0.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_EthernetIP|1.0.1.0
+TC31-Full-Setup.3.1.4018.13|Tc2_FTP|3.3.5.0
+TC31-Full-Setup.3.1.4018.16|Tc2_FTP|3.3.5.0
+TC31-Full-Setup.3.1.4018.26|Tc2_FTP|3.3.5.0
+TC31-Full-Setup.3.1.4018.5|Tc2_FTP|3.3.5.0
+TC31-Full-Setup.3.1.4018.47|Tc2_FTP|3.3.5.1
+TC31-Full-Setup.3.1.4018.57|Tc2_FTP|3.3.5.2
+TC31-Full-Setup.3.1.4018.47|Tc2_GENIbus|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_GENIbus|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_IoFunctions|3.3.10.0
+TC31-Full-Setup.3.1.4018.13|Tc2_IoFunctions|3.3.4.0
+TC31-Full-Setup.3.1.4018.16|Tc2_IoFunctions|3.3.4.0
+TC31-Full-Setup.3.1.4018.5|Tc2_IoFunctions|3.3.4.0
+TC31-Full-Setup.3.1.4018.26|Tc2_IoFunctions|3.3.5.0
+TC31-Full-Setup.3.1.4018.47|Tc2_IoFunctions|3.3.8.0
+TC31-Full-Setup.3.1.4018.47|Tc2_KL85xx|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_KL85xx|3.4.6.0
+TC31-Full-Setup.3.1.4018.47|Tc2_LON|3.3.4.0
+TC31-Full-Setup.3.1.4018.57|Tc2_LON|3.3.4.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Math|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MBus|3.3.5.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MBus|3.4.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MC2|3.3.10.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MC2|3.3.12.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MC2|3.3.13.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MC2|3.3.15.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MC2|3.3.25.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MC2|3.3.9.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MC2_Camming|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MC2_Camming|3.3.3.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MC2_Camming|3.3.3.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MC2_Camming|3.3.3.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MC2_Camming|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MC2_Camming|3.3.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MC2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MC2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MC2_Drive|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MC2_Drive|3.3.15.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MC2_Drive|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MC2_Drive|3.3.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MC2_FlyingSaw|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MC2_FlyingSaw|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MC2_FlyingSaw|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MC2_FlyingSaw|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MC2_FlyingSaw|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MC2_FlyingSaw|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MC2_XFC|3.3.11.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MC2_XFC|3.3.15.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MC2_XFC|3.3.6.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MC2_XFC|3.3.6.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MC2_XFC|3.3.8.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MC2_XFC|3.3.8.0
+TC31-Full-Setup.3.1.4018.13|Tc2_MDP|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_MDP|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_MDP|3.3.4.0
+TC31-Full-Setup.3.1.4018.26|Tc2_MDP|3.3.4.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MDP|3.3.5.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MDP|3.3.6.0
+TC31-Full-Setup.3.1.4018.5|Tc2_ModbusRTU|3.3.1.0
+TC31-Full-Setup.3.1.4018.13|Tc2_ModbusRTU|3.4.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_ModbusRTU|3.4.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_ModbusRTU|3.4.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_ModbusRTU|3.4.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_ModbusRTU|3.4.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.26|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_ModbusSrv|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_MPBus|3.3.5.0
+TC31-Full-Setup.3.1.4018.57|Tc2_MPBus|3.4.9.0
+TC31-Full-Setup.3.1.4018.13|Tc2_NC|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_NC|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_NC|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_NC|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_NC|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_NC|3.3.1.0
+TC31-Full-Setup.3.1.4018.13|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_NcDrive|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.26|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_NcFifoAxes|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_NCI|3.3.12.0
+TC31-Full-Setup.3.1.4018.5|Tc2_NCI|3.3.4.0
+TC31-Full-Setup.3.1.4018.13|Tc2_NCI|3.3.6.0
+TC31-Full-Setup.3.1.4018.16|Tc2_NCI|3.3.6.0
+TC31-Full-Setup.3.1.4018.26|Tc2_NCI|3.3.6.0
+TC31-Full-Setup.3.1.4018.47|Tc2_NCI|3.3.7.0
+TC31-Full-Setup.3.1.4018.47|Tc2_NciXFC|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_NciXFC|3.3.3.0
+TC31-Full-Setup.3.1.4018.13|Tc2_OpcUa|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_OpcUa|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_PlcInterpolation|3.3.10.0
+TC31-Full-Setup.3.1.4018.47|Tc2_PlcInterpolation|3.3.10.0
+TC31-Full-Setup.3.1.4018.57|Tc2_PlcInterpolation|3.3.15.0
+TC31-Full-Setup.3.1.4018.5|Tc2_PlcInterpolation|3.3.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_PlcInterpolation|3.3.8.0
+TC31-Full-Setup.3.1.4018.16|Tc2_PlcInterpolation|3.3.9.0
+TC31-Full-Setup.3.1.4018.47|Tc2_ProfinetDiag|1.2.2.0
+TC31-Full-Setup.3.1.4018.57|Tc2_ProfinetDiag|1.2.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_RFID|3.3.2.0
+TC31-Full-Setup.3.1.4018.5|Tc2_RFID|3.3.2.0
+TC31-Full-Setup.3.1.4018.16|Tc2_RFID|3.3.3.0
+TC31-Full-Setup.3.1.4018.26|Tc2_RFID|3.3.4.0
+TC31-Full-Setup.3.1.4018.47|Tc2_RFID|3.3.4.0
+TC31-Full-Setup.3.1.4018.57|Tc2_RFID|3.3.6.0
+TC31-Full-Setup.3.1.4018.13|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_S5S7Com|3.3.0.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SerialCom|3.3.4.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SerialCom|3.3.4.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SerialCom|3.3.4.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SerialCom|3.3.4.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SerialCom|3.3.6.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SerialCom|3.3.6.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SMI|3.3.5.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SMI|3.3.7.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SMS|3.3.0.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Smtp|3.3.1.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SPA|3.3.0.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Standard|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Standard|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Standard|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Standard|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Standard|3.3.1.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Standard|3.3.2.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SUPS|3.3.3.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SUPS|3.3.3.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SUPS|3.3.3.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SUPS|3.3.3.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SUPS|3.3.4.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SUPS|3.3.6.0
+TC31-Full-Setup.3.1.4018.13|Tc2_System|3.3.10.0
+TC31-Full-Setup.3.1.4018.16|Tc2_System|3.3.10.0
+TC31-Full-Setup.3.1.4018.26|Tc2_System|3.3.10.0
+TC31-Full-Setup.3.1.4018.5|Tc2_System|3.3.9.0
+TC31-Full-Setup.3.1.4018.47|Tc2_System|3.4.14.0
+TC31-Full-Setup.3.1.4018.57|Tc2_System|3.4.19.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SystemC69xx|3.3.0.0
+TC31-Full-Setup.3.1.4018.13|Tc2_SystemCX|3.3.3.0
+TC31-Full-Setup.3.1.4018.16|Tc2_SystemCX|3.3.3.0
+TC31-Full-Setup.3.1.4018.26|Tc2_SystemCX|3.3.3.0
+TC31-Full-Setup.3.1.4018.47|Tc2_SystemCX|3.3.3.0
+TC31-Full-Setup.3.1.4018.5|Tc2_SystemCX|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_SystemCX|3.3.5.0
+TC31-Full-Setup.3.1.4018.13|Tc2_TcpIp|3.3.3.0
+TC31-Full-Setup.3.1.4018.16|Tc2_TcpIp|3.3.3.0
+TC31-Full-Setup.3.1.4018.26|Tc2_TcpIp|3.3.3.0
+TC31-Full-Setup.3.1.4018.47|Tc2_TcpIp|3.3.3.0
+TC31-Full-Setup.3.1.4018.5|Tc2_TcpIp|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_TcpIp|3.3.4.0
+TC31-Full-Setup.3.1.4018.13|Tc2_TempController|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc2_TempController|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc2_TempController|3.3.2.0
+TC31-Full-Setup.3.1.4018.26|Tc2_TempController|3.3.2.0
+TC31-Full-Setup.3.1.4018.47|Tc2_TempController|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc2_TempController|3.3.4.0
+TC31-Full-Setup.3.1.4018.13|Tc2_Utilities|3.3.10.0
+TC31-Full-Setup.3.1.4018.5|Tc2_Utilities|3.3.10.0
+TC31-Full-Setup.3.1.4018.16|Tc2_Utilities|3.3.11.0
+TC31-Full-Setup.3.1.4018.26|Tc2_Utilities|3.3.11.0
+TC31-Full-Setup.3.1.4018.47|Tc2_Utilities|3.3.17.0
+TC31-Full-Setup.3.1.4018.57|Tc2_Utilities|3.3.28.0
+TC31-Full-Setup.3.1.4018.13|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc2_XmlDataSrv|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc3_BA_Common|1.0.4.0
+TC31-Full-Setup.3.1.4018.57|Tc3_Database|3.3.0.14
+TC31-Full-Setup.3.1.4018.13|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.57|Tc3_EtherCATExtSync|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc3_EventLogger|3.0.1.0
+TC31-Full-Setup.3.1.4018.13|Tc3_Interfaces|3.3.0.0
+TC31-Full-Setup.3.1.4018.16|Tc3_Interfaces|3.3.0.0
+TC31-Full-Setup.3.1.4018.26|Tc3_Interfaces|3.3.0.0
+TC31-Full-Setup.3.1.4018.5|Tc3_Interfaces|3.3.0.0
+TC31-Full-Setup.3.1.4018.47|Tc3_Interfaces|3.4.2.0
+TC31-Full-Setup.3.1.4018.57|Tc3_Interfaces|3.4.3.0
+TC31-Full-Setup.3.1.4018.47|Tc3_MC2_AdvancedHoming|3.0.3.0
+TC31-Full-Setup.3.1.4018.57|Tc3_MC2_AdvancedHoming|3.0.9.0
+TC31-Full-Setup.3.1.4018.47|Tc3_MC2_AdvancedHoming_XFC|3.0.3.0
+TC31-Full-Setup.3.1.4018.57|Tc3_MC2_AdvancedHoming_XFC|3.0.4.0
+TC31-Full-Setup.3.1.4018.13|Tc3_MemMan|3.3.1.0
+TC31-Full-Setup.3.1.4018.16|Tc3_MemMan|3.3.1.0
+TC31-Full-Setup.3.1.4018.26|Tc3_MemMan|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc3_MemMan|3.3.1.0
+TC31-Full-Setup.3.1.4018.5|Tc3_MemMan|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc3_Module|3.3.11.0
+TC31-Full-Setup.3.1.4018.57|Tc3_Module|3.3.18.0
+TC31-Full-Setup.3.1.4018.13|Tc3_Module|3.3.6.0
+TC31-Full-Setup.3.1.4018.16|Tc3_Module|3.3.6.0
+TC31-Full-Setup.3.1.4018.5|Tc3_Module|3.3.6.0
+TC31-Full-Setup.3.1.4018.26|Tc3_Module|3.3.8.0
+TC31-Full-Setup.3.1.4018.5|Tc3_PackML|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc3_PackML|3.3.3.0
+TC31-Full-Setup.3.1.4018.57|Tc3_PackML|3.3.3.0
+TC31-Full-Setup.3.1.4018.5|Tc3_PackML_V2|3.3.1.0
+TC31-Full-Setup.3.1.4018.47|Tc3_PackML_V2|3.3.7.0
+TC31-Full-Setup.3.1.4018.57|Tc3_PackML_V2|3.3.8.0
+TC31-Full-Setup.3.1.4018.5|Tc3_PLCopen_OpcUa|3.1.1.0
+TC31-Full-Setup.3.1.4018.13|Tc3_PLCopen_OpcUa|3.1.6.0
+TC31-Full-Setup.3.1.4018.16|Tc3_PLCopen_OpcUa|3.1.6.0
+TC31-Full-Setup.3.1.4018.26|Tc3_PLCopen_OpcUa|3.1.6.0
+TC31-Full-Setup.3.1.4018.47|Tc3_PLCopen_OpcUa|3.1.6.0
+TC31-Full-Setup.3.1.4018.57|Tc3_PLCopen_OpcUa|3.1.7.0
+TC31-Full-Setup.3.1.4018.13|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CAA Memory|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CAA Types Extern|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|Alarm Manager Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|Trace Mgr2 Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.16|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.26|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.47|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.5|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.57|Unit Conversion Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.13|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|VisuElemsDateTime Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|VisuFPlot|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuFPlot|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|Base Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpApp|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|CmpApp|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpBinTagUtilIec|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpBitmapPool|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.16|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.26|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.47|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.5|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.57|CmpChannelClientIec|3.3.1.40
+TC31-Full-Setup.3.1.4018.13|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpCodeMeter|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.16|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.26|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.47|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.5|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.57|CmpDynamicText|3.5.3.50
+TC31-Full-Setup.3.1.4018.13|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpErrors2 Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpEventMgr|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpLog|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|CmpSchedule|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpSchedule|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpTargetVisu|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|CmpVisuHandler|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|CmpVisuHandler|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|Collections|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|Collections Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|Component Manager|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|Data Server Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|FloatingPointUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|Monitoring Data Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|Plc Services|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|Recipe Management|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|StringUtils|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|StringUtils|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysCpuHandling|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysDir|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|SysDir|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysFile|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|SysFile|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysMem|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysProcess|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysSem|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysShm|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.16|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.26|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.47|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.5|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.57|SysTarget|3.4.2.0
+TC31-Full-Setup.3.1.4018.13|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.16|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.26|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.47|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.5|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.57|SysTarget|3.5.4.0
+TC31-Full-Setup.3.1.4018.13|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysTarget|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysTime|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysTimeCore|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|SysTimeRtc|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.16|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.26|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.47|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.5|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.57|SysTypes|3.1.2.0
+TC31-Full-Setup.3.1.4018.13|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.16|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.26|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.47|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.5|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.57|SysTypes Interfaces|3.5.2.0
+TC31-Full-Setup.3.1.4018.13|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.16|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.26|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.47|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.5|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.57|SysTypes2 Interfaces|3.5.4.0
+TC31-Full-Setup.3.1.4018.13|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.16|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.26|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.47|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.5|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.57|Visu Interfaces|3.5.5.0
+TC31-Full-Setup.3.1.4018.13|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|Visu User Mgmt Interfaces|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuDialogs|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElem3DPath|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.16|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.26|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.47|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.5|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.57|VisuElemAutoScaleMeter|1.0.0.0
+TC31-Full-Setup.3.1.4018.13|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemBase|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemMeter|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.16|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.26|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.47|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.5|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.57|VisuElems|3.5.6.10
+TC31-Full-Setup.3.1.4018.13|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemsDateTime|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemsSpecialControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemsWinControls|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuElemTextEditor|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuInputs|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuNativeControl|3.5.6.0
+TC31-Full-Setup.3.1.4018.13|VisuUserMgmt|3.5.6.0
+TC31-Full-Setup.3.1.4018.16|VisuUserMgmt|3.5.6.0
+TC31-Full-Setup.3.1.4018.26|VisuUserMgmt|3.5.6.0
+TC31-Full-Setup.3.1.4018.47|VisuUserMgmt|3.5.6.0
+TC31-Full-Setup.3.1.4018.5|VisuUserMgmt|3.5.6.0
+TC31-Full-Setup.3.1.4018.57|VisuUserMgmt|3.5.6.0
 TC31-Full-Setup.3.1.4020.14|Tc2_BA|3.1.2.0
 TC31-Full-Setup.3.1.4020.28|Tc2_BA|3.1.3.0
 TC31-Full-Setup.3.1.4020.32.a|Tc2_BA|3.1.3.0
